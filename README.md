@@ -4,7 +4,7 @@ Programming Language is Python.
 This Project is build using 2 Algorithms of Machine Learning: Extra Trees Regressor and Random Forest Regressor.  
 The Architecture of this Project is:
 ![image](https://github.com/NehaSree19/Car-Price-Prediction-Using-Machine-Learning/assets/92450770/5cecd01a-03d3-4eb5-8b5b-680d91859780)  
-It is split into 6 modules:  
+It is split into 5 modules:  
 Module 1:Data Collection: The dataset is dowloaded from kaggle and uploaded.
 ![image](https://github.com/NehaSree19/Car-Price-Prediction-Using-Machine-Learning/assets/92450770/bbcf636b-deba-48d5-9020-2393d1f88aa8)  
 Module 2: Data Preproceesing: The data is cleaned to remove any null values and missing values and split into train data(80%) and test data(20%).  
